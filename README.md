@@ -1,5 +1,5 @@
 # NYC-Taxi-Demand-Prediction
-Predict the taxi demand for yellow cabs with the location in next 10 minutes for new york city.
+### Predict the taxi demand for yellow cabs with the location in next 10 minutes for new york city.
 
 This python notebook is to develop machine learning model to predict the taxi demand for yellow cabs in new york city with the data provided by the Taxi & Limousine Commission for yellow cabs. Based on the data, machine learning model predicts the pickup demand of cabs in 10 minutes time frame. In this python notebook different machine learning model have been trained and accuracy is tested.
 
