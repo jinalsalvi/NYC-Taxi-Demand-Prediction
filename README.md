@@ -28,4 +28,4 @@ Along with that, we will use below regression model by selecting best hyper-para
 
 __Objective: By comparing the different model we will select the best model to predict the Yellow Taxi demand which helps the taxi drivers.__
 
-This project is developed with the help of videos and basic code provided by appliedaicourse.com.
+This project is developed to complete assignment given by appliedaicourse.com with provided videos and basic code.
