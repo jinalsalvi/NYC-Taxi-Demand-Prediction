@@ -22,9 +22,9 @@ Feature importance is an important part for any of the machine learning problem.
 - Exponential Moving Averages
 
 Along with that, we will use below regression model by selecting best hyper-parameter with the help of different technique depending on hype parameter to predict the taxi demand.
-- Linear Regression
-- Random Forest Regressor
-- XgBoost Regressor
+- Linear Regression with GridSearch
+- Random Forest Regressor with Random search
+- XgBoost Regressor with Random search
 
 __Objective: By comparing the different model we will select the best model to predict the Yellow Taxi demand which helps the taxi drivers.__
 
